@@ -1,13 +1,28 @@
 {
   "name": "mqtt-server",
   "version": "1.0.0",
-  "description": "mqtt-server",
+  "description": "mqtt-server for nodejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isnl/mqtt-server.git"
+  },
+  "keywords": [
+    "mqtt-server",
+    "mqtt-server-nodejs",
+    "mqtt",
+    "nodejs-mqtt",
+    "nodejs-mqtt-server"
+  ],
   "author": "candy",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isnl/mqtt-server/issues"
+  },
+  "homepage": "https://github.com/isnl/mqtt-server#readme",
   "dependencies": {
     "mosca": "^2.8.3",
     "mqtt": "^3.0.0"
