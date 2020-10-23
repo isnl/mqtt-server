@@ -1,7 +1,7 @@
 ## 一个基于nodejs的mqtt服务器
 ## A mqtt server in node.js
 
-### How to user???
+### How to use
 
 ```bash
 npm install
